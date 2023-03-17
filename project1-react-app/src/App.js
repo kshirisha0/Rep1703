@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>This heading is added by sirisha from local repository</h1>
+     <h1> This heading added by developer</h1>
      </div>
   );
 }
